@@ -10,7 +10,7 @@ function Home() {
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="..\images\model-3.jpg"
+              backgroundImg="model-3.jpg"
             />
             
             
@@ -19,41 +19,41 @@ function Home() {
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="..\images\model-Y.jpg"
+              backgroundImg="model-Y.jpg"
             />
             <Section
               title="Model S"
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="..\images\model-S.jpg"
+              backgroundImg="model-S.jpg"
             />
             <Section
               title="Model X"
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="..\images\model-X.jpg"
+              backgroundImg="model-X.jpg"
               
             />
             <Section
               title="Lowest Cost Solar Panel in America"
               description="Money-back guarantee"
-              backgroundImg="..\images\solar-panel.jpg"
+              backgroundImg="solar-panel.jpg"
               leftBtnText="Order now"
               rightBtnText="Learn More"
             />
             <Section
               title="Solar for New Roofs"
               description="Solar Roof Costs Less Than a New Roof"
-              backgroundImg="..\images\solar-roof.jpg"
+              backgroundImg="solar-roof.jpg"
               leftBtnText="Order now"
               rightBtnText="Learn More"
             />
             <Section
               title="Accessories"
               description=""
-              backgroundImg="..\images\accessories.jpg"
+              backgroundImg="accessories.jpg"
               leftBtnText="Shop now"
               
             />

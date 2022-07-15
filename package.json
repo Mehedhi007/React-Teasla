@@ -1,5 +1,4 @@
 {
-  "homepage": "http://Mehedhi007.github.io/React-Tesla",
   "name": "tesla-clone",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +15,6 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^14.2.1",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
