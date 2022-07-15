@@ -19,21 +19,21 @@ function Home() {
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="model-Y.jpg"
+              backgroundImg="model-y.jpg"
             />
             <Section
               title="Model S"
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="model-S.jpg"
+              backgroundImg="model-s.jpg"
             />
             <Section
               title="Model X"
               description="Order Online for Touchless Delivery"
               leftBtnText="Custom Order"
               rightBtnText="Existing Inventory"
-              backgroundImg="model-X.jpg"
+              backgroundImg="model-x.jpg"
               
             />
             <Section
