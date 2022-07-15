@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Tesla/static/css/main.ef1f5b4e.css",
-    "main.js": "/React-Tesla/static/js/main.9fd8dc16.js",
+    "main.css": "/React-Tesla/static/css/main.d47ca6ef.css",
+    "main.js": "/React-Tesla/static/js/main.6acfdb8d.js",
     "static/js/787.860837ff.chunk.js": "/React-Tesla/static/js/787.860837ff.chunk.js",
-    "static/media/logo.svg": "/React-Tesla/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
     "index.html": "/React-Tesla/index.html",
-    "main.ef1f5b4e.css.map": "/React-Tesla/static/css/main.ef1f5b4e.css.map",
-    "main.9fd8dc16.js.map": "/React-Tesla/static/js/main.9fd8dc16.js.map",
+    "main.d47ca6ef.css.map": "/React-Tesla/static/css/main.d47ca6ef.css.map",
+    "main.6acfdb8d.js.map": "/React-Tesla/static/js/main.6acfdb8d.js.map",
     "787.860837ff.chunk.js.map": "/React-Tesla/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef1f5b4e.css",
-    "static/js/main.9fd8dc16.js"
+    "static/css/main.d47ca6ef.css",
+    "static/js/main.6acfdb8d.js"
   ]
 }
