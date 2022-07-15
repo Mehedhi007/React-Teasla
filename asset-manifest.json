@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Tesla/static/css/main.d47ca6ef.css",
-    "main.js": "/React-Tesla/static/js/main.9e6776f1.js",
+    "main.js": "/React-Tesla/static/js/main.b83150ea.js",
     "static/js/787.860837ff.chunk.js": "/React-Tesla/static/js/787.860837ff.chunk.js",
     "index.html": "/React-Tesla/index.html",
     "main.d47ca6ef.css.map": "/React-Tesla/static/css/main.d47ca6ef.css.map",
-    "main.9e6776f1.js.map": "/React-Tesla/static/js/main.9e6776f1.js.map",
+    "main.b83150ea.js.map": "/React-Tesla/static/js/main.b83150ea.js.map",
     "787.860837ff.chunk.js.map": "/React-Tesla/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d47ca6ef.css",
-    "static/js/main.9e6776f1.js"
+    "static/js/main.b83150ea.js"
   ]
 }
