@@ -58,7 +58,7 @@ function Home() {
               
             />
             <Footer>
-              <li>Tesla 2022</li>
+              <li>Tesla © 2022</li>
               <li>Privacy & Legal</li>
               <li>Vehicle Recalls</li>
               <li>Contact</li>
