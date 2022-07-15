@@ -1,5 +1,5 @@
 import {createSlice} from "@reduxjs/toolkit"
-import carReducer from "../features/car/carSlice"
+
 
 const initialState = {
     cars: ["Model S","Model 3","Model X","Model Y"]
